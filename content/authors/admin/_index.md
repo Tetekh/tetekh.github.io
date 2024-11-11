@@ -39,7 +39,7 @@ profiles:
     url: uploads/resume.pdf
     label: Download my resume
   - icon: whatsapp
-    url: https://wa.me/50685003285 
+    url: https://wa.me/50685003285
     label: Chat with me
 ---
 
