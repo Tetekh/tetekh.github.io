@@ -32,8 +32,10 @@ profiles:
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/tete.herrera/
+    label: Insta
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/kevin-herrera-7567hq/
+    label: Profile
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
