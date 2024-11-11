@@ -3,7 +3,7 @@
 title: Kevin Herrera
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Kevin
@@ -22,7 +22,7 @@ role: Statistician/Data Analyst
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Universidad de Costa Rica
-    url: 
+    url: https://www.ucr.ac.cr/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -39,7 +39,7 @@ profiles:
     url: uploads/resume.pdf
     label: Download my resume
   - icon: whatsapp
-    url:https://wa.me/50685003285 
+    url: https://wa.me/50685003285 
     label: Chat with me
 ---
 
