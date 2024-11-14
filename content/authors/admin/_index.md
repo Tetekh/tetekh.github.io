@@ -46,6 +46,7 @@ profiles:
 ---
 
 Hi! Happy to know you want to contact me. Here is my contact info. You can use the hyperlinks above to be directed to: E-mail, Instagram, LinkedIn, Whatsapp and you can download my resume.
+
 E-mail: kevinh.stats@gmail.com
 Cel: 8500-3285
 
