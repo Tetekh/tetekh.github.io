@@ -36,18 +36,17 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/kevin-herrera-7567hq/
     label: Profile
+  - icon: brands/whatsapp
+    url: https://wa.me/50685003285
+    label: Chat with me
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: brands/whatsapp
-    url: https://wa.me/50685003285
-    label: Chat with me
 ---
 
-Statistics Student, formation of predictive models, mathematics, 
-computer science, data gathering, data governance and database fundamentals. 
-Worked with sales data for non supervised learning models. 
-Bacteria growth scores in experimentation studies, Tukey's hypothesis. 
-Survey analysis, visualization results and interpretation
-factor weighting for Costa Rica population.
+Hi! Happy to know you want to contact me. Here is my contact info. You can use the hyperlinks above to be directed to: E-mail, Instagram, LinkedIn, Whatsappc and you can download my resume.
+E-mail: kevinh.stats@gmail.com
+Cel: 8500-3285
+
+
