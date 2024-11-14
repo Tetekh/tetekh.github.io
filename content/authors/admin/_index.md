@@ -32,7 +32,7 @@ profiles:
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/tete.herrera/
-    label: Insta
+    label: Instagram
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/kevin-herrera-7567hq/
     label: Profile
